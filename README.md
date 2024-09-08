@@ -56,12 +56,12 @@ python app.py
 ```
 
 ### 5.Conversion Logic:
-PDF to Word: Converts a .pdf file to a .docx Word document using pdf2docx.
-Word to PDF: Converts a .docx file to a .pdf document using docx2pdf.
+- PDF to Word: Converts a .pdf file to a .docx Word document using pdf2docx.
+- Word to PDF: Converts a .docx file to a .pdf document using docx2pdf.
 
 ### 6.How to Use:
-Open your browser and go to http://127.0.0.1:5000/.
-Upload either a PDF or a Word document.
-Select the conversion type (PDF to Word or Word to PDF) from the dropdown.
-Click Upload and Convert.
-Once the file is converted, it will be automatically downloaded to your device.
+- Open your browser and go to http://127.0.0.1:5000/.
+- Upload either a PDF or a Word document.
+- Select the conversion type (PDF to Word or Word to PDF) from the dropdown.
+- Click Upload and Convert.
+- Once the file is converted, it will be automatically downloaded to your device.
